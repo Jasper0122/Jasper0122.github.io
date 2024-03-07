@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ongoing | Zongrong (Jasper)</title>
+    <link>/tags/ongoing/</link>
+      <atom:link href="/tags/ongoing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ongoing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/DF-image.jpg</url>
+      <title>Ongoing</title>
+      <link>/tags/ongoing/</link>
+    </image>
+    
+    <item>
+      <title>Cluster Analysis and Validation in Unraveling Environmental Context of Non-Small Cell Lung Cancer Using Geometric Deep Learning of Satellite Imagery</title>
+      <link>/project/coh/</link>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/project/coh/</guid>
+      <description>&lt;p&gt;Supervisor: &lt;em&gt;Jay Yang&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The utilization of social determinants of health (SDOH) has enhanced the understanding of cancer disparities, yet the integration of urban-environmental characteristics at the neighborhood level remains partial. Satellite imagery, as a readily available data source, facilitates the observation and quantification of urban geographical contexts and their relation to environmental, socio-demographic, and health processes. Traditional deep learning (DL) methods, particularly Convolutional Neural Networks (CNNs), have been employed to analyze high-resolution images, focusing predominantly on local contextual information.&lt;/p&gt;
+&lt;p&gt;The advent of Geometric Deep Learning (GDL) presents novel methodologies for analyzing satellite data, specifically through superpixel graph representations, enabling a more nuanced understanding of urban environments. This paper introduces S2CL, a new superpixel simplicial contrastive learning model that leverages mutual information maximization between graph-level and simplicial complex-level representations. Conducting experiments in Los Angeles, USA, with lower resolution satellite imagery, we found that S2CL and GDL models surpass CNNs in revealing latent urban features, which complement SDOH variables in predicting cancer disparities.&lt;/p&gt;
+&lt;p&gt;Our findings suggest that GDL, particularly the S2CL model, provides a groundbreaking avenue for enhanced assessment of urban forms and their impact on health outcome disparities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2023 Hawaii Wildfire Cost-Effective Rapid Wildfire Analysis</title>
+      <link>/project/muai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/muai/</guid>
+      <description>&lt;p&gt;Team member: &lt;em&gt;Zongrong Li, Qiluo Li, Haiyang Li&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This project presents a detailed analysis of the 2023 wildfires in Hawaii, particularly focusing on Maui Island, with the goal of developing a cost-effective and efficient wildfire assessment model.&lt;/p&gt;
+&lt;p&gt;Methodology: three-tiered approach, initiating with broad-scale fire detection using high-frequency FIRMS data at approximately 1-kilometer resolution. It then progresses to a more refined analysis using high-resolution Sentinel 2 data (20-meter resolution with a five-day revisit cycle) and Planet data (3-meter resolution), specifically targeting the evaluation of vegetation cover impact, employing the NDVI index for accurate and timely updates.&lt;/p&gt;
+&lt;p&gt;key advantages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Integration of public and commercial satellite data ensures comprehensive coverage and targeted, cost-effective analysis.
+ &lt;/li&gt;
+&lt;li&gt;The combination of high-frequency and high-resolution data enables continuous monitoring and precise assessment of wildfire impacts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The link of storymap:  &lt;a href=&#34;https://arcg.is/KOiqr0&#34;&gt;https://arcg.is/KOiqr0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis of Flood Exposure and Vulnerability in megacities of Varying Development Levels Based on DMSP-OLS</title>
+      <link>/project/flood/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/flood/</guid>
+      <description>&lt;p&gt;Supervisor: &lt;em&gt;Zhiwei Li&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Urban flooding increasingly threatens megacities, especially in low-income countries. Despite the gravity of the issue, most flood risk studies have predominantly focused on high-income regions like the European Union and the U.S., leaving developing nations relatively under-examined.&lt;/p&gt;
+&lt;p&gt;Many of these studies hinge on census data combined with land cover information, relying on results from flood inundation models that have inherent uncertainties. Moreover, the majority of research has a localized focus, often overlooking broader patterns that could emerge from comparing cities at different developmental stages.&lt;/p&gt;
+&lt;p&gt;However, the advent of the Defense Meteorological Satellite Program’s Operational Linescan System (DMSP-OLS) provides a promising avenue for a more comprehensive analysis. By utilizing this nighttime light data with flood sensitivity mapping, this study aims to fill the research gaps, offering insights into the flood risks facing megacities across various development levels.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

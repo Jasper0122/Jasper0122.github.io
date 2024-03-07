@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Zongrong (Jasper)</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/DF-image.jpg</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Current,
+I am seeking a Ph.D. position that combines machine learning, GIS, and their applications in economics and finance.&lt;/p&gt;
+&lt;p&gt;Hi!! I am Zongrong(Jasper) Li, a first-year master student at the University of Southern California, majoring in Spatial Data Science.I am also an influencer(20k followers) in Xiaohongshu, dedicated to sharing learning and data analysis-related experiences and contributing to the community.&lt;/p&gt;
+&lt;p&gt;My primary research interests focus on integrating machine learning and GIS technologies into economics and finance, particularly through GeoAI and ScienceAI, to enhance insights and applications.&lt;/p&gt;
+&lt;p&gt;Email: zongrong[at]usc[dot]edu&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
