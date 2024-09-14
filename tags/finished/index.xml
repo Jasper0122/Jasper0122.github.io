@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finished | Zongrong (Jasper)</title>
+    <link>/tags/finished/</link>
+      <atom:link href="/tags/finished/index.xml" rel="self" type="application/rss+xml" />
+    <description>Finished</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Finished</title>
+      <link>/tags/finished/</link>
+    </image>
+    
+    <item>
+      <title>Urban Health Disparities Research Project</title>
+      <link>/project/coh/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>/project/coh/</guid>
+      <description>&lt;p&gt;Supervisor: Jay Yang&lt;/p&gt;
+&lt;p&gt;The utilization of social determinants of health (SDOH) has enhanced the understanding of cancer disparities, yet the integration of urban-environmental characteristics at the neighborhood level remains partial. Satellite imagery, as a readily available data source, facilitates the observation and quantification of urban geographical contexts and their relation to environmental, socio-demographic, and health processes. Traditional deep learning (DL) methods, particularly Convolutional Neural Networks (CNNs), have been employed to analyze high-resolution images, focusing predominantly on local contextual information.&lt;/p&gt;
+&lt;p&gt;The advent of Geometric Deep Learning (GDL) presents novel methodologies for analyzing satellite data, specifically through superpixel graph representations, enabling a more nuanced understanding of urban environments. This paper introduces S2CL, a new superpixel simplicial contrastive learning model that leverages mutual information maximization between graph-level and simplicial complex-level representations. Conducting experiments in Los Angeles, USA, with lower resolution satellite imagery, we found that S2CL and GDL models surpass CNNs in revealing latent urban features, which complement SDOH variables in predicting cancer disparities.&lt;/p&gt;
+&lt;p&gt;Our findings suggest that GDL, particularly the S2CL model, provides a groundbreaking avenue for enhanced assessment of urban forms and their impact on health outcome disparities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wildfire Resilience Research Project</title>
+      <link>/project/fire/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/project/fire/</guid>
+      <description>&lt;p&gt;Supervisor: Yi Qi
+Team member: Zongrong Li, Qiluo Li, Haiyang Li&lt;/p&gt;
+&lt;p&gt;This project presents a detailed analysis of the 2023 wildfires in Hawaii, particularly focusing on Maui Island, with the goal of developing a cost-effective and efficient wildfire assessment model.&lt;/p&gt;
+&lt;p&gt;Methodology: three-tiered approach, initiating with broad-scale fire detection using high-frequency FIRMS data at approximately 1-kilometer resolution. It then progresses to a more refined analysis using high-resolution Sentinel 2 data (20-meter resolution with a five-day revisit cycle) and Planet data (3-meter resolution), specifically targeting the evaluation of vegetation cover impact, employing the NDVI index for accurate and timely updates.&lt;/p&gt;
+&lt;p&gt;key advantages:&lt;/p&gt;
+&lt;p&gt;Integration of public and commercial satellite data ensures comprehensive coverage and targeted, cost-effective analysis.&lt;br&gt;
+The combination of high-frequency and high-resolution data enables continuous monitoring and precise assessment of wildfire impacts.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

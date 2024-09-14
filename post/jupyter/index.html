@@ -225,9 +225,6 @@
   
   <meta property="twitter:card" content="summary_large_image">
   
-  <meta property="twitter:site" content="@Jasperli0122">
-  <meta property="twitter:creator" content="@Jasperli0122">
-  
   <meta property="og:site_name" content="Zongrong (Jasper)">
   <meta property="og:url" content="/post/jupyter/">
   <meta property="og:title" content="Display Jupyter Notebooks with Academic | Zongrong (Jasper)">
@@ -326,7 +323,8 @@
 
       <div id="search-box">
         
-        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -427,7 +425,36 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects"><span>/Research</span></a>
+          <a class="nav-link " href="/#publications"><span>/Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>/Projects</span></a>
         </li>
 
         
@@ -508,26 +535,6 @@
         
         
 
-        
-
-        
-        
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link  active" href="/"><span></span></a>
-        </li>
-
-        
-        
-
       
 
         
@@ -536,7 +543,15 @@
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
       
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
 
+      
+      <li class="nav-item">
+        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+      </li>
       
 
       
@@ -827,7 +842,7 @@ date: 2019-09-01
     <div class="media-body">
       <h5 class="card-title"><a href="/">Zongrong(Jasper) Li</a></h5>
       <h6 class="card-subtitle">Student at USC</h6>
-      <p class="card-text">I am seeking a Ph.D. position that combines machine learning, GIS, and their applications in economics and finance.</p>
+      <p class="card-text">My research interests include GeoAI, Urban Informatics and Spatial Data Fusion.</p>
       <ul class="network-icon" aria-hidden="true">
   
     
@@ -839,8 +854,10 @@ date: 2019-09-01
     
     
     
+      
+    
     <li>
-      <a href="mailto:zongrong@usc.edu" >
+      <a href="/zongrong@usc.edu" >
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -857,7 +874,7 @@ date: 2019-09-01
       
     
     <li>
-      <a href="https://twitter.com/Jasperli0122" target="_blank" rel="noopener">
+      <a href="https://x.com/Jasperli0122" target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
@@ -876,6 +893,23 @@ date: 2019-09-01
     <li>
       <a href="https://github.com/Jasper0122" target="_blank" rel="noopener">
         <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/" >
+        <i class="fas fa-cv"></i>
       </a>
     </li>
   
@@ -931,11 +965,46 @@ date: 2019-09-01
     
 
     
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
 
     
     
 
     
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
 
     
     
@@ -945,7 +1014,6 @@ date: 2019-09-01
 
     
     
-
     
     
     
@@ -953,12 +1021,12 @@ date: 2019-09-01
     
     
     
+      
     
     
     
     
-    
-    <script src="/js/academic.min.e5c8525332f417fe3589df9a6b25b6c4.js"></script>
+    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
 
     
 

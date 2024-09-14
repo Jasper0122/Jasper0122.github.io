@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zongrong Li | Zongrong (Jasper)</title>
+    <link>/authors/zongrong-li/</link>
+      <atom:link href="/authors/zongrong-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zongrong Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Zongrong Li</title>
+      <link>/authors/zongrong-li/</link>
+    </image>
+    
+    <item>
+      <title>BuildingView: Constructing Urban Building Exteriors Databases with Street View Imagery and Multimodal Large Language Model</title>
+      <link>/publication/preprint_buildingview/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint_buildingview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-source Tri-environmental Conceptual Framework for Fire Impact Analysis</title>
+      <link>/publication/preprint_muaifire/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint_muaifire/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

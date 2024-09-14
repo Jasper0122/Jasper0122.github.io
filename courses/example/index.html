@@ -223,18 +223,16 @@
   
   
     
+    
   
   
-  <meta property="twitter:card" content="summary_large_image">
-  
-  <meta property="twitter:site" content="@Jasperli0122">
-  <meta property="twitter:creator" content="@Jasperli0122">
+  <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Zongrong (Jasper)">
   <meta property="og:url" content="/courses/example/">
   <meta property="og:title" content="Overview | Zongrong (Jasper)">
-  <meta property="og:description" content="Learn how to use Academic&#39;s docs layout for publishing online courses, software documentation, and tutorials."><meta property="og:image" content="/img/DF-image.jpg">
-  <meta property="twitter:image" content="/img/DF-image.jpg"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Learn how to use Academic&#39;s docs layout for publishing online courses, software documentation, and tutorials."><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2018-09-09T00:00:00&#43;00:00">
   
@@ -274,7 +272,8 @@
 
       <div id="search-box">
         
-        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -375,7 +374,36 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects"><span>/Research</span></a>
+          <a class="nav-link " href="/#publications"><span>/Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>/Projects</span></a>
         </li>
 
         
@@ -456,26 +484,6 @@
         
         
 
-        
-
-        
-        
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link  active" href="/"><span></span></a>
-        </li>
-
-        
-        
-
       
 
         
@@ -484,7 +492,15 @@
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
       
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
 
+      
+      <li class="nav-item">
+        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+      </li>
       
 
       
@@ -516,6 +532,8 @@
     <span><i class="fas fa-bars"></i></span>
   </button>
 
+  
+  <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
   
 </form>
 
@@ -633,6 +651,19 @@
 
 
 
+
+  
+  
+
+<p class="edit-page">
+  <a href="https://github.com/gcushen/hugo-academic/edit/master/content/courses%5cexample%5c_index.md">
+    <i class="fas fa-pen pr-2"></i>Edit this page
+  </a>
+</p>
+
+
+
+
           
 
         </div>
@@ -700,6 +731,22 @@
     
 
     
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
 
     
     
@@ -710,6 +757,25 @@
     
 
     
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
 
     
     
@@ -719,7 +785,6 @@
 
     
     
-
     
     
     
@@ -727,12 +792,12 @@
     
     
     
+      
     
     
     
     
-    
-    <script src="/js/academic.min.e5c8525332f417fe3589df9a6b25b6c4.js"></script>
+    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
 
     
 

@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Student at USC">
+  <meta name="description" content="Academic Website of Zongrong(Jasper) Li">
 
   
   <link rel="alternate" hreflang="en-us" href="/tags/ongoing/">
@@ -223,20 +223,18 @@
   
   
     
+    
   
   
-  <meta property="twitter:card" content="summary_large_image">
-  
-  <meta property="twitter:site" content="@Jasperli0122">
-  <meta property="twitter:creator" content="@Jasperli0122">
+  <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Zongrong (Jasper)">
   <meta property="og:url" content="/tags/ongoing/">
   <meta property="og:title" content="Ongoing | Zongrong (Jasper)">
-  <meta property="og:description" content="Student at USC"><meta property="og:image" content="/img/DF-image.jpg">
-  <meta property="twitter:image" content="/img/DF-image.jpg"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Academic Website of Zongrong(Jasper) Li"><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2024-01-31T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2024-09-11T00:00:00&#43;00:00">
   
 
   
@@ -274,7 +272,8 @@
 
       <div id="search-box">
         
-        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -375,7 +374,36 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects"><span>/Research</span></a>
+          <a class="nav-link " href="/#publications"><span>/Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>/Projects</span></a>
         </li>
 
         
@@ -456,26 +484,6 @@
         
         
 
-        
-
-        
-        
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link  active" href="/"><span></span></a>
-        </li>
-
-        
-        
-
       
 
         
@@ -484,7 +492,15 @@
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
       
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
 
+      
+      <li class="nav-item">
+        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+      </li>
       
 
       
@@ -531,33 +547,10 @@
   
   
   <div>
-    <h2><a href="/project/coh/">Cluster Analysis and Validation in Unraveling Environmental Context of Non-Small Cell Lung Cancer Using Geometric Deep Learning of Satellite Imagery</a></h2>
+    <h2><a href="/project/flood/">Urban Flood Resilience Research Project</a></h2>
     <div class="article-style">
       
-      Supervisor: Jay Yang
-The utilization of social determinants of health (SDOH) has enhanced the understanding of cancer disparities, yet the integration of urban-environmental characteristics at the neighborhood level remains partial. Satellite imagery, as a readily available data source, facilitates the observation and quantification of urban geographical contexts and their relation to environmental, socio-demographic, and health processes. Traditional deep learning (DL) methods, particularly Convolutional Neural Networks (CNNs), have been employed to analyze high-resolution images, focusing predominantly on local contextual information.
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/project/muai/">2023 Hawaii Wildfire Cost-Effective Rapid Wildfire Analysis</a></h2>
-    <div class="article-style">
-      
-      Team member: Zongrong Li, Qiluo Li, Haiyang Li
-This project presents a detailed analysis of the 2023 wildfires in Hawaii, particularly focusing on Maui Island, with the goal of developing a cost-effective and efficient wildfire assessment model.
-Methodology: three-tiered approach, initiating with broad-scale fire detection using high-frequency FIRMS data at approximately 1-kilometer resolution. It then progresses to a more refined analysis using high-resolution Sentinel 2 data (20-meter resolution with a five-day revisit cycle) and Planet data (3-meter resolution), specifically targeting the evaluation of vegetation cover impact, employing the NDVI index for accurate and timely updates.
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/project/flood/">Analysis of Flood Exposure and Vulnerability in megacities of Varying Development Levels Based on DMSP-OLS</a></h2>
-    <div class="article-style">
-      
-      Supervisor: Zhiwei Li
-Urban flooding increasingly threatens megacities, especially in low-income countries. Despite the gravity of the issue, most flood risk studies have predominantly focused on high-income regions like the European Union and the U.S., leaving developing nations relatively under-examined.
-Many of these studies hinge on census data combined with land cover information, relying on results from flood inundation models that have inherent uncertainties. Moreover, the majority of research has a localized focus, often overlooking broader patterns that could emerge from comparing cities at different developmental stages.
+      Analysis of Flood Exposure and Vulnerability in megacities of Varying Development Levels Based on DMSP-OLS From 2010 to 2020
       
     </div>
   </div>
@@ -598,11 +591,46 @@ Many of these studies hinge on census data combined with land cover information,
     
 
     
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
 
     
     
 
     
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
 
     
     
@@ -612,7 +640,6 @@ Many of these studies hinge on census data combined with land cover information,
 
     
     
-
     
     
     
@@ -620,12 +647,12 @@ Many of these studies hinge on census data combined with land cover information,
     
     
     
+      
     
     
     
     
-    
-    <script src="/js/academic.min.e5c8525332f417fe3589df9a6b25b6c4.js"></script>
+    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
 
     
 

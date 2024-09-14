@@ -5,9 +5,9 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/DF-image.jpg</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
@@ -15,16 +15,96 @@
     <item>
       <title>Ongoing</title>
       <link>/tags/ongoing/</link>
-      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
       <guid>/tags/ongoing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/source-themes/</guid>
+      <title>Building exteriors</title>
+      <link>/tags/building-exteriors/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/building-exteriors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GeoAI</title>
+      <link>/tags/geoai/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/geoai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal large language model</title>
+      <link>/tags/multimodal-large-language-model/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/multimodal-large-language-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Street-View imagery</title>
+      <link>/tags/street-view-imagery/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/street-view-imagery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban analytics</title>
+      <link>/tags/urban-analytics/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/urban-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dasymetric Mapping</title>
+      <link>/tags/dasymetric-mapping/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/dasymetric-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact Analysis</title>
+      <link>/tags/impact-analysis/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/impact-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Source Data Integration</title>
+      <link>/tags/multi-source-data-integration/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/multi-source-data-integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tri-Environmental Framework</title>
+      <link>/tags/tri-environmental-framework/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/tri-environmental-framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wildfire</title>
+      <link>/tags/wildfire/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/wildfire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finished</title>
+      <link>/tags/finished/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/finished/</guid>
       <description></description>
     </item>
     

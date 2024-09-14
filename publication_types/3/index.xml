@@ -5,25 +5,27 @@
     <link>/publication_types/3/</link>
       <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/DF-image.jpg</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
       <link>/publication_types/3/</link>
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&#39;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>BuildingView: Constructing Urban Building Exteriors Databases with Street View Imagery and Multimodal Large Language Model</title>
+      <link>/publication/preprint_buildingview/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint_buildingview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-source Tri-environmental Conceptual Framework for Fire Impact Analysis</title>
+      <link>/publication/preprint_muaifire/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint_muaifire/</guid>
+      <description></description>
     </item>
     
   </channel>

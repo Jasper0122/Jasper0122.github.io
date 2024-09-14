@@ -5,32 +5,88 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/DF-image.jpg</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
     
     <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Current,
-I am seeking a Ph.D. position that combines machine learning, GIS, and their applications in economics and finance.&lt;/p&gt;
-&lt;p&gt;Hi!! I am Zongrong(Jasper) Li, a first-year master student at the University of Southern California, majoring in Spatial Data Science.I am also an influencer(20k followers) in Xiaohongshu, dedicated to sharing learning and data analysis-related experiences and contributing to the community.&lt;/p&gt;
-&lt;p&gt;My primary research interests focus on integrating machine learning and GIS technologies into economics and finance, particularly through GeoAI and ScienceAI, to enhance insights and applications.&lt;/p&gt;
-&lt;p&gt;Email: zongrong[at]usc[dot]edu&lt;/p&gt;
-</description>
+      <title>Chenyuan Zhu</title>
+      <link>/authors/chenyuan-zhu/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/chenyuan-zhu/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/robert-ford/</guid>
+      <title>Wufan Zhao</title>
+      <link>/authors/wufan-zhao/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/wufan-zhao/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Yunlei Li</title>
+      <link>/authors/yunlei-li/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/yunlei-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zongrong Li</title>
+      <link>/authors/zongrong-li/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/zongrong-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haiyang Li</title>
+      <link>/authors/haiyang-li/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/haiyang-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qiluo Li</title>
+      <link>/authors/qiluo-li/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/qiluo-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siqin Wang</title>
+      <link>/authors/siqin-wang/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/siqin-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yi Qi</title>
+      <link>/authors/yi-qi/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/yi-qi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Current, I am seeking a Ph.D. position in GeoAI &amp;amp; Urban Science, starting Fall 2025. If you are interested in my research or would like to collaborate, please feel free to reach out.&lt;/p&gt;
+&lt;p&gt;Hi! I’m Zongrong (Jasper) Li, a master’s student at the University of Southern California, majoring in Spatial Data Science.
+My passion lies in advancing our understanding of Urban Science through innovative approaches, using geographic knowledge to inform and enhance developments in AI. I’m particularly fascinated by the intricate integration of geospatial data, including remote sensing and street view imagery, with large language models.&lt;/p&gt;
+&lt;p&gt;My goal is to contribute novel tools, algorithms, and general methodologies that will empower future researchers to explore Urban Science more effectively.&lt;/p&gt;
+&lt;p&gt;Email: zongrong[at]usc[dot]edu&lt;/p&gt;
+</description>
     </item>
     
   </channel>
