@@ -4,7 +4,7 @@ date:           2025-03-15 00:01:00 +0800
 selected:       true
 #pub:            ""
 #pub_pre:        ""
-pub_post:       'Ongoing'
+pub_post:       'Under Review, ISPRS Journal of Photo grammetry and Remote Sensing'
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2025"
 
