@@ -24,7 +24,7 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     I'm an interdisciplinary researcher interested in applying GeoAI methods to advance urban science, 
-    understand human-environment interactions, and leverage street view and remote sensing for urban perception and analysis.
+    understand human-environment interactions in 3D urban space, and leverage 3D Mesh Model, street view and remote sensing for urban perception and analysis.
     <img src="assets/images/photos/interst.png" alt="Research Interests" 
          style="float: left; width: 350px; margin-right: 10px; border-radius: 8px;">
   </p>
@@ -43,10 +43,10 @@ short_bio: >-
   </p>
 
   <p>
-    I am also a Research Assistant at 
+    Previously, I was also a Research Assistant at 
     <a href="https://www.hkust-gz.edu.cn/" target="_blank">HKUST(GZ)</a>, 
     working in the AI4City Lab with Prof. <a href="https://wufan-zhao.github.io/" target="_blank">Wufan Zhao</a>. 
-    Previously, I worked as a Data Science Intern at 
+    Before that, I worked as a Data Science Intern at 
     <a href="https://sites.google.com/view/hdscalecollab/" target="_blank">City of Hope</a> under the supervision of 
     Dr. <a href="https://www.linkedin.com/in/jiue-an-jay-y-a1ab6737/" target="_blank">Jay Yang</a> 
     and as a Research Assistant at 
@@ -57,7 +57,7 @@ short_bio: >-
   <p>
     <i class="fa-solid fa-rectangle-ad" style="color: #d60000;"></i> 
     <span style="color: #d60000;">I am looking for collaborators and interns</span> 
-    interested in GeoAI, Spatial Analysis, and their applications in urban science and human-environment interaction. 
+    interested in GeoAI, Spatial Analysis, and their applications in urban science and human-environment interaction in 3D urban space. 
     My goal is to develop novel tools, algorithms, and methodologies to empower future researchers in exploring Urban Science and 
     understanding the dynamic relationship between humans and their environments. If you are interested in collaborating, 
     please feel free to reach out via email or WeChat.
@@ -87,7 +87,7 @@ experience:
 - name: The Hong Kong University of Science and Technology (Guangzhou)
   logo: /assets/images/badges/UST.svg.png
   position: Research Assistant - AI4City Lab
-  date: Aug. 2024 - Present
+  date: Aug. 2024 - AUG.2025
 
 - name: Harvard University
   logo: /assets/images/badges/Harvard.png
@@ -111,6 +111,8 @@ experience:
 
 
 awards:
+- name: TAMU Dean's Doctoral Fellowship 
+  date: Aug. 2025
 - name: 2025 AAG GISS Student Paper Competition Honorable Mention
   date: Mar. 2025
 - name: 2025 EIP Student of the Year Award
