@@ -1,5 +1,5 @@
 ---
-title:          "GPS-Sat2SVI: GPS-Based Remote Sensing with Style Consistency for Street View Image Generation"
+title:          "Bridging Street View Coverage Disparities through Geographic Style–Preserving Generation from Satellite View"
 date:           2025-03-15 00:01:00 +0800
 selected:       true
 #pub:            ""
@@ -13,6 +13,7 @@ pub_date:       "2025"
 cover:  assets/images/covers/2025-Sat2SVI.png
 authors:
   - Zongrong Li
+  - Shaoqiong Dai
   - Wufan Zhao#
 
 links:
