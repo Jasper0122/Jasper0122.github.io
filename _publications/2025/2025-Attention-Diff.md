@@ -1,7 +1,7 @@
 ---
 title:          "ViT-Based Attention Mechanism Uncovers Disparities in Urban Economic Landscapes Across Cities"
 date:           2025-02-23 00:01:00 +0800
-selected:       true
+selected:       false
 #pub:            ""
 #pub_pre:        ""
 pub_post:       'Ongoing'

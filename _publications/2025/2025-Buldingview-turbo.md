@@ -1,5 +1,5 @@
 ---
-title:          "Buildingmultiview: Extracting 11 Multi-Scale Building Characteristics from Satellite and Street View Imagery with Large Language Models"
+title:          "BuildingMultiView: Powering Multi-Scale Building Characterization with Large Language Models and Multi-Perspective Imagery"
 date:           2025-02-01 00:01:00 +0800
 selected:       true
 #pub:            ""
@@ -18,7 +18,7 @@ authors:
   - Wufan Zhao#
 
 links:
-  Paper: https://ssrn.com/abstract=5336448
+  Paper: https://doi.org/10.1016/j.jag.2025.105034
 #Code: https://github.com/ai4city-hkust/buildingview_turbo
 #  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
