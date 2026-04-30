@@ -8,5 +8,4 @@ description: >-
 cover: /assets/images/covers/2026-auto-eco.png
 links:
   Code: https://jasper0122.github.io/auto-eco/
-  GitHub: https://github.com/Jasper0122/auto-eco
 ---
