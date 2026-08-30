@@ -22,14 +22,12 @@
     {% if page.navbar_title == 'Home' %}
     <section class="site-hero" id="top">
         <div class="hero-backgrounds" aria-hidden="true">
-            {% assign hero_publications = site.publications | sort: "date" | reverse %}
+            {% assign hero_publications = site.publications | where_exp: "p", "p.cover" | sort: "date" | reverse %}
             {% for publication in hero_publications %}
-                {% if publication.cover %}
                 <img
                     class="hero-bg-frame{% if forloop.first %} is-active{% endif %}"
                     src="{{ publication.cover | relative_url }}"
                     alt="">
-                {% endif %}
             {% endfor %}
         </div>
         <div class="site-hero-content">

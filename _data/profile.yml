@@ -4,13 +4,13 @@ navbar_name: "Homepage"
 
 positions:
 - logo: /assets/images/badges/Texas_A&M_University_seal.svg  # Logo is optional
-  name: Ph.D. in Geographic Information Systems
+  name: Ph.D. in Geography
 # - name: Position 2 without logo
 
 
 email: "zongrong@tamu.edu"
 cv_link: /assets/CV/cv.pdf  #IDK
-gscholar: XbCCGC4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+gscholar: AUIr2dIAAAAJ  # Google Scholar ID
 github: Jasper0122
 twitter: Jasperli0122  # Do not include the '@' symbol
 wechat_qrcode: /assets/images/etc/wechat.jpg
@@ -31,7 +31,7 @@ short_bio: >-
   </p>
 
   <p>
-    I am currently a <strong>Ph.D. student</strong> in Geographic Information Systems at 
+    I am currently a <strong>Ph.D. student</strong> in Geography at 
     <a href="https://www.tamu.edu/" target="_blank">Texas A&M University</a>, 
     advised by Prof. <a href="https://scholar.google.com/citations?user=VRndhQEAAAAJ&hl=en" target="_blank">Lei Zou</a> in the 
     <a href="https://www.geoearlab.com/" target="_blank">TAMU GEAR Lab</a>. 
@@ -56,7 +56,11 @@ short_bio: >-
   </p>
 
   <p>
-    I also share my journey as a study-abroad influencer on <a href="https://www.xiaohongshu.com/user/profile/638b75f2000000001f01aed6" target="_blank">RedNote (Xiaohongshu)</a> with 30k followers, and I'm the founder of <a href="https://autoapplyclaw.com" target="_blank"><strong>AutoApplyClaw</strong></a> — an AI-powered job application platform that searches jobs, generates tailored resumes & cover letters, and auto-fills application forms via a Chrome extension.
+    Outside the lab, I work as a <strong>Growth Data Analyst (Founding GTM)</strong> at <a href="https://monid.ai" target="_blank">Monid</a>, 
+    where I build geodemographic segmentation and spatial analyses of user acquisition. 
+    I also share my journey as a study-abroad influencer on <a href="https://www.xiaohongshu.com/user/profile/638b75f2000000001f01aed6" target="_blank">RedNote (Xiaohongshu)</a> with 30k followers, 
+    and I founded <a href="https://autoapplyclaw.com" target="_blank"><strong>AutoApplyClaw</strong></a>, an AI-powered job application platform that searches jobs, generates tailored resumes & cover letters, and auto-fills application forms via a Chrome extension, 
+    as well as <strong>AutonomousGeoAI4Science</strong>, an open AI and geospatial research community.
   </p>
 
   <p>
@@ -77,22 +81,38 @@ portrait_caption: >-
 education:
 - name: Texas A&M University
   logo: /assets/images/badges/Texas_A&M_University_seal.svg
-  position: Ph.D. in Geographic Information Systems
-  date: Aug. 2025 - Present
+  dept: Department of Geography, College of Arts & Sciences
+  position: Ph.D. in Geography
+  date: Aug. 2025 - May. 2029 (Expected)
 - name: University of Southern California
   logo: /assets/images/badges/usc.png
   position: M.S. in Spatial Data Science
   date: Aug. 2023 - May. 2025
 - name: Nanjing Audit University
   logo: /assets/images/badges/NAU.png
-  position: B.A. in Economics, Finance
-  date: Sep. 2018 - Jul. 2022
+  position: B.Econ. in Finance
+  date: Sep. 2018 - Jun. 2022
 
 experience:
+- name: Monid, Inc.
+  logo: /assets/images/badges/monid.png
+  position: Growth Data Analyst (Founding GTM)
+  date: Aug. 2026 - Present
+
+- name: Texas A&M University
+  logo: /assets/images/badges/Texas_A&M_University_seal.svg
+  position: Graduate Research Assistant - GEAR Lab & Google
+  date: Aug. 2025 - Present
+
 - name: The Hong Kong University of Science and Technology (Guangzhou)
   logo: /assets/images/badges/UST.svg.png
   position: Research Assistant - AI4City Lab
-  date: Aug. 2024 - Aug.2025
+  date: Jun. 2024 - Sep. 2025
+
+- name: University of Southern California
+  logo: /assets/images/badges/usc.png
+  position: Research Assistant - Spatial Sciences Institute
+  date: Sep. 2023 - May. 2025
 
 - name: Harvard University
   logo: /assets/images/badges/Harvard.png
@@ -102,37 +122,56 @@ experience:
 - name: City of Hope
   logo: /assets/images/badges/COH.png
   position: Data Science Intern
-  date: Feb. 2024 - May. 2024
+  date: Jan. 2024 - Sep. 2024
 
 - name: The Hong Kong Polytechnic University
   logo: /assets/images/badges/PolyU.svg_.png
   position: Research Assistant
-  date: Sep. 2023 - May. 2024
+  date: Sep. 2023 - Aug. 2024
 
 - name: NetEase Youdao
   logo: /assets/images/badges/youdaojfif.jfif
   position: Data Analyst Intern
   date: Jan. 2023 - Apr. 2023
 
+- name: Nanjing Audit University
+  logo: /assets/images/badges/NAU.png
+  position: Research Assistant
+  date: Sep. 2019 - May. 2021
+
 
 awards:
-- name: Doctoral Student Professional Development Award ($1000)
+- name: Doctoral Student Research, Travel & Professional Development Award ($1,000)
   date: Apr. 2026
-- name: AAG International Geographic Information Fund ($1200)
+- name: AAG Cartography and Mapping Specialty Group Session Funding Award ($202)
+  date: Apr. 2026
+- name: Google Cloud Research Credits ($1,000)
+  date: Feb. 2026
+- name: AAG International Geographic Information Fund ($1,200)
   date: Feb. 2026
 - name: AAG AGSG Annual Meeting Award ($202)
   date: Feb. 2026
-- name: TAMU Dean's Doctoral Fellowship
+- name: TAMU Lechner Graduate Scholarship ($1,000)
   date: Aug. 2025
-- name: 2025 AAG GISS Student Paper Competition Honorable Mention
+- name: TAMU Dean's Doctoral Fellowship ($40,000)
+  date: Aug. 2025
+- name: Lifetime Membership, Nu Theta Chapter, Gamma Theta Upsilon
+  date: May. 2025
+- name: AAG GISS Student Paper Competition Honorable Mention ($300)
   date: Mar. 2025
-- name: 2025 EIP Student of the Year Award
+- name: EIP Student of the Year Award ($500)
   date: Mar. 2025
-- name: Most Suitably Applied Analysis Methodology Award
+- name: LA GeoSpatial Summit - Most Suitably Applied Analysis Methodology Award
   date: Feb. 2025
-- name: Bronze medal in Kaggle's Child Mind Institute - Detect Sleep States
+- name: Fall GSG Professional Development Fund ($500)
+  date: Feb. 2025
+- name: Finalist, GISS Student Honors Paper Competition
+  date: Dec. 2024
+- name: LA GeoSpatial Summit - Story Map Participation Award
+  date: Feb. 2024
+- name: Bronze Medal, Kaggle Child Mind Institute - Detect Sleep States
   date: Jan. 2024
-- name: Outstanding Graduate Award
-  date: Jun. 2022
+- name: Outstanding Graduate Award (Top 5%), Nanjing Audit University
+  date: May. 2022
 - name: Provincial Champion of The World Mandarin Debating Championship
   date: Sep. 2020

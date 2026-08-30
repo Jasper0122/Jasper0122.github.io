@@ -4,7 +4,7 @@ date:           2025-02-01 00:01:00 +0800
 selected:       true
 #pub:            ""
 #pub_pre:        ""
-pub_post:       'International Journal of Applied Earth Observation and Geoinformation(JAG)'
+pub_post:       'International Journal of Applied Earth Observation and Geoinformation (JAG), 146, 105034,'
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2026"
 

@@ -1,10 +1,10 @@
 ---
-title:          "Visual Access to Urban Greenery from Indoor Spaces: A 3D Window View Approach for Large U.S. Metropolitan Areas"
+title:          "Seeing Green from Indoors in 3D: How Built Environment and Vegetation Shape Window-Level Nature Exposure"
 date:           2025-11-11 00:01:00 +0800
 selected:       true
 #pub:            ""
 #pub_pre:        ""
-pub_post:       'Ongoing'
+pub_post:       'Under review, Landscape and Urban Planning'
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2026"
 
@@ -14,6 +14,9 @@ cover:  assets/images/covers/2025-3D-WV.png
 authors:
   - Zongrong Li
   - Lei Zou#
+  - Jiwon Seo
+  - Meixu Yang
+  - Yifan Yang
 
 links:
 #Paper: https://arxiv.org/abs/2409.19527
