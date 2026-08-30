@@ -56,7 +56,7 @@ short_bio: >-
   </p>
 
   <p>
-    Outside the lab, I work as a <strong>Growth Data Analyst (Founding GTM)</strong> at <a href="https://monid.ai" target="_blank">Monid</a>, 
+    Outside the lab, I work as a <strong>Founding GTM/Scientist</strong> at <a href="https://monid.ai" target="_blank">Monid</a>,
     where I build geodemographic segmentation and spatial analyses of user acquisition. 
     I also share my journey as a study-abroad influencer on <a href="https://www.xiaohongshu.com/user/profile/638b75f2000000001f01aed6" target="_blank">RedNote (Xiaohongshu)</a> with 30k followers, 
     and I founded <a href="https://autoapplyclaw.com" target="_blank"><strong>AutoApplyClaw</strong></a>, an AI-powered job application platform that searches jobs, generates tailored resumes & cover letters, and auto-fills application forms via a Chrome extension, 
@@ -96,7 +96,7 @@ education:
 experience:
 - name: Monid, Inc.
   logo: /assets/images/badges/monid.png
-  position: Growth Data Analyst (Founding GTM)
+  position: Founding GTM/Scientist
   date: Aug. 2026 - Present
 
 - name: Texas A&M University
